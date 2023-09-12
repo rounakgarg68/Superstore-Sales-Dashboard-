@@ -4,6 +4,10 @@
 
 The Superstore Sales Dashboard is a comprehensive data analysis project created using Power BI. It encompasses data import, cleaning, interactive dashboard creation, and sales forecasting from an Excel data source. This project demonstrates my proficiency in data analytics, visualization, and forecasting, showcasing how data-driven insights can drive informed business decisions.
 
+![Screenshot (21)](https://github.com/rounakgarg68/Superstore-Sales-Dashboard-/assets/87636522/c045e451-a4ea-4cc4-be9b-36d77fdf462e)
+
+![Screenshot (22)](https://github.com/rounakgarg68/Superstore-Sales-Dashboard-/assets/87636522/59596a55-3f1d-4e77-938c-1a92bb94999a)
+
 ## Project Overview:
 
 - **Data Cleaning**: Thoroughly cleaned and preprocessed the raw data to ensure data accuracy and quality.
