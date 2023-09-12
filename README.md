@@ -9,11 +9,5 @@ Welcome to the Superstore Sales Dashboard project! This project showcases my dat
 
 ### **Sales Forecasting** : Using advanced analytics techniques, I generated a sales forecasting report to help in future decision-making.
 
-## How to Use:
 
-### **Data Source** : The original data source is in an Excel file. You can find it in the `data` folder.
-
-### **Dashboard** : The Power BI dashboard is in the `dashboard` folder. You can open it with Power BI Desktop.
-
-### **Sales Forecasting**: The sales forecasting report is in the `forecasting` folder.
 
